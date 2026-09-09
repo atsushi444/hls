@@ -2,6 +2,7 @@
 - [M3U8 player](https://m3u8-player.net/)(converter and player. Download M3U8 streams, convert to MP4, play HLS online)
 - [M3U8 Downloader](https://m3u8.dev/)(Download and convert M3U8 (HLS) videos to MP4 online for free.)
 - [视频分割](https://split-video.com/zh/)(预览分割大小)
-- [切片](https://88box.top/video-tools/mp4-to-ts)(将MP4文件转为m3u8索引文件+TS分片)
+- [切片](https://88box.top/video-tools/mp4-to-ts)
+- [切片](https://vidmix.app/ffmpeg-in-plain-english/)(将MP4文件转为m3u8索引文件+TS分片)
 - [M3U8转MP4在线工具](https://ezwebtools.net/m3u8-to-mp4)(在浏览器本地解析并封装M3U8流为MP4)
 - [字幕转换工具](https://subtitletools.com/convert-to-srt-online)(在线字幕格式转换)
