@@ -6,3 +6,4 @@
 - [M3U8转MP4在线工具](https://ezwebtools.net/m3u8-to-mp4)(在浏览器本地解析并封装M3U8流为MP4)
 - [字幕转换工具](https://subtitletools.com/convert-to-srt-online)(在线字幕格式转换)
 - [画质提升工具](https://free.upscaler.video/)(在浏览器中使用AI免费增强视频或图片)
+- [视频剪切工具](https://openreplay.com/zh/tools/video-trimmer/)(免费剪切MP4、MOV、WebM 或MKV 视频，无损，浏览器本地运行)
